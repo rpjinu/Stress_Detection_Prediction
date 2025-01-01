@@ -1,6 +1,7 @@
 # Stress_Detection_Prediction
 "A "Streamlit-based application for predicting Perceived Stress Scale (PSS) scores using machine learning models."
 # PSS Score Prediction
+<img src="https://github.com/rpjinu/Stress_Detection_Prediction/blob/main/stress_detection_image.png" width=600>
 
 This project is a machine learning application designed to predict Perceived Stress Scale (PSS) scores using various behavioral, psychological, and lifestyle features.
 
